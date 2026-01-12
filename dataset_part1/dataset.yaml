@@ -1,0 +1,74 @@
+names:
+  0: Person
+  1: Bicycle
+  2: Tree
+  3: Wheel
+  4: Footwear
+  5: Tire
+  6: Bicycle wheel
+  7: Car
+  8: Houseplant
+  9: Flower
+  10: Flowerpot
+  11: Bicycle helmet
+  12: Plant
+  13: Man
+  14: Human face
+  15: Dog
+  16: Woman
+  17: Bus
+  18: Building
+  19: Motorcycle
+  20: Clothing
+  21: Window
+  22: Bookcase
+  23: Shelf
+  24: Book
+  25: Girl
+  26: Human head
+  27: Human body
+  28: Human hair
+  29: Human arm
+  30: Boy
+  31: Cat
+  32: Hiking equipment
+  33: Cart
+  34: Sun hat
+  35: Sunglasses
+  36: Human leg
+  37: Door
+  38: Jeans
+  39: Human eye
+  40: Human mouth
+  41: Human nose
+  42: Palm tree
+  43: House
+  44: Helmet
+  45: Cattle
+  46: Goggles
+  47: Street light
+  48: Suit
+  49: Jacket
+  50: Boat
+  51: Human beard
+  52: Mammal
+  53: Chair
+  54: Boot
+  55: Vehicle registration plate
+  56: Microphone
+  57: Skateboard
+  58: Van
+  59: Traffic sign
+  60: Glasses
+  61: Fashion accessory
+  62: Coat
+  63: Trousers
+  64: Shorts
+  65: Dress
+  66: Swimming pool
+  67: Balloon
+  68: Fast food
+  69: Snack
+  70: Sculpture
+path: /Users/Pich/Documents/YOLO_BICYCLES/dataset_part1
+val: ./images/val/
